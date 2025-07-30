@@ -1,11 +1,9 @@
-<!--
-# EMOJI TITLE
+# 🛠️ Tools Index
+Generate an index page of all tools folders available in the root folder.
 
 ## ✨ Features
-- 
-- 
-- 
--->
+- Generate index list of tools.
+- Clickable links to the tools.
 
 ## ⚖️ License
 Code released under the [MIT license](LICENSE.md).
